@@ -1,0 +1,5 @@
+{
+  "name": "Aletheia AI News",
+  "description": "A short-form, fact-checked news platform that streams TikTok-style vertical video stories. It uses Gemini to provide AI-assisted perspective, bias, and fact-check analyses.",
+  "requestFramePermissions": []
+}
